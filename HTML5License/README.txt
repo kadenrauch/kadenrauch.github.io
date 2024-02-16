@@ -1,6 +1,6 @@
 Credits:
-
-	Read Only by HTML5 UP
+	Kaden's Portfolio
+	Adapted from Read Only by HTML5 UP
 	html5up.net | @ajlkn
 
 	Demo Images:
