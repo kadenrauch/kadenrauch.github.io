@@ -2934,3 +2934,11 @@ input, select, textarea {
 				width: 100%;
 			}
 	}
+
+	.features article .image img {
+		transition: transform 0.3s ease-in-out;
+	}
+	  
+	.features article:hover .image img {
+		transform: scale(1.02);
+	}
